@@ -36,7 +36,7 @@
 ### 🎃 Hacktoberfest 2025
 <div style="background: linear-gradient(135deg, rgba(255, 107, 107, 0.1) 0%, rgba(0, 216, 255, 0.05) 100%); padding: 20px; border-radius: 10px; border-left: 4px solid #FF6B6B; margin: 15px 0;">
 
-<a href="https://holopin.io/hacktoberfest2025" target="_blank">
+<a href="https://www.holopin.io/@adityarajj23#badges" target="_blank">
   <img src="https://assets.holopin.io/hf2025levels/lvl2-human.webp" alt="Hacktoberfest 2025 Level 2" style="width: 150px; height: auto; border-radius: 10px; box-shadow: 0 0 20px rgba(255, 107, 107, 0.5);"/>
 </a>
 
@@ -45,7 +45,7 @@
 ### 📊 Kaggle
 <div style="background: linear-gradient(135deg, rgba(32, 190, 255, 0.1) 0%, rgba(0, 216, 255, 0.05) 100%); padding: 20px; border-radius: 10px; border-left: 4px solid #20BEFF; margin: 15px 0;">
 
-<a href="https://www.kaggle.com/learn/ai-agents" target="_blank">
+<a href="https://www.kaggle.com/certification/badges/adityaraj2323/105" target="_blank">
   <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F10489106%2Fef135f20e49c369cebff513ac3c96eed%2F5-Day_AI_Agents_Intensive_Badge.svg?generation=1763052133996110&alt=media" alt="5-Day AI Agents Intensive" style="width: 150px; height: auto; border-radius: 10px; box-shadow: 0 0 20px rgba(32, 190, 255, 0.5);"/>
 </a>
 
