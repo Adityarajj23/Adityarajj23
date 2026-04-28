@@ -3,103 +3,53 @@
 # 🌌 Aditya Raj 
 ## Full-Stack Developer | ML/AI Enthusiast | Security Researcher
 
-<!-- Cyberpunk Animated Banner with Flying Rocket -->
-<svg width="100%" height="180" viewBox="0 0 800 180" xmlns="http://www.w3.org/2000/svg" style="margin: 20px 0;">
-  <defs>
-    <style>
-      @keyframes rocketFly {
-        0% { transform: translateX(-80px); opacity: 0; }
-        5% { opacity: 1; }
-        95% { opacity: 1; }
-        100% { transform: translateX(880px); opacity: 0; }
-      }
-      
-      @keyframes flameFlicker {
-        0%, 100% { opacity: 0.6; }
-        50% { opacity: 1; }
-      }
-      
-      @keyframes glow {
-        0%, 100% { r: 25px; opacity: 0.3; }
-        50% { r: 35px; opacity: 0.6; }
-      }
-      
-      .rocket-group { animation: rocketFly 5s ease-in-out infinite; }
-      .flame1 { animation: flameFlicker 0.15s infinite; }
-      .flame2 { animation: flameFlicker 0.15s infinite 0.075s; }
-      .rocket-glow { animation: glow 2s ease-in-out infinite; }
-      
-      .banner-text { font-family: 'Courier New', monospace; font-weight: bold; }
-      .section-divider { stroke: #00D8FF; stroke-width: 2; opacity: 0.5; }
-    </style>
-    
-    <!-- Gradient Definitions -->
-    <linearGradient id="bannerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0a0e27;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1a1f3a;stop-opacity:1" />
-    </linearGradient>
-    
-    <linearGradient id="rocketGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#FF1744;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#D32F2F;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-  <!-- Main Banner Background -->
-  <rect width="800" height="180" fill="url(#bannerGradient)" stroke="#00D8FF" stroke-width="2" rx="10"/>
-  
-  <!-- Section Dividers -->
-  <line x1="50" y1="50" x2="750" y2="50" class="section-divider"/>
-  <line x1="50" y1="130" x2="750" y2="130" class="section-divider"/>
-  
-  <!-- Top Text -->
-  <text x="400" y="35" text-anchor="middle" font-size="18" fill="#00D8FF" class="banner-text" letter-spacing="2">
-    🚀 Building Scalable ML Systems
-  </text>
-  
-  <!-- Animated Rocket Group -->
-  <g class="rocket-group">
-    <!-- Rocket Glow Effect -->
-    <circle class="rocket-glow" cx="40" cy="90" fill="none" stroke="#00D8FF"/>
-    
-    <!-- Rocket Body -->
-    <rect x="25" y="70" width="30" height="40" fill="url(#rocketGradient)" rx="4"/>
-    
-    <!-- Rocket Window -->
-    <circle cx="40" cy="80" r="4" fill="#FFD93D"/>
-    
-    <!-- Rocket Nose Cone -->
-    <polygon points="40,65 32,55 48,55" fill="#FFD93D"/>
-    
-    <!-- Rocket Fins Left -->
-    <polygon points="25,100 15,105 20,110" fill="#00D8FF"/>
-    
-    <!-- Rocket Fins Right -->
-    <polygon points="55,100 65,105 60,110" fill="#0099FF"/>
-    
-    <!-- Flame 1 (Inner - Yellow) -->
-    <polygon class="flame1" points="30,110 35,110 32.5,130" fill="#FFD93D"/>
-    
-    <!-- Flame 2 (Outer - Red) -->
-    <polygon class="flame2" points="45,110 40,110 42.5,135" fill="#FF6B6B"/>
-    
-    <!-- Flame Glow -->
-    <circle cx="40" cy="122" r="8" fill="#FF6B6B" opacity="0.3"/>
-  </g>
-  
-  <!-- Middle Text -->
-  <text x="400" y="100" text-anchor="middle" font-size="16" fill="#0099FF" class="banner-text" letter-spacing="1">
-    🛡️  Real-time Anomaly Detection
-  </text>
-  
-  <!-- Bottom Text -->
-  <text x="400" y="160" text-anchor="middle" font-size="16" fill="#6A0DAD" class="banner-text" letter-spacing="1">
-    🌐 Full-Stack Security Solutions
-  </text>
-</svg>
+<!-- Cyberpunk ASCII Banner with Animated Rocket Emoji -->
+<div style="background: linear-gradient(135deg, #0a0e27 0%, #1a1f3a 100%); padding: 40px; border-radius: 15px; border: 2px solid #00D8FF; box-shadow: 0 0 30px rgba(0, 216, 255, 0.5), inset 0 0 20px rgba(0, 153, 255, 0.1); margin: 20px 0; position: relative; overflow: hidden;">
 
-<!-- Secondary Animated Text Line -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=16&duration=4000&pause=1000&color=00D8FF&center=true&width=600&lines=%E2%9C%A8+Transforming+Ideas+into+Intelligent+Solutions+✨" alt="Cyberpunk Animation"/>
+```
+  ╔═══════════════════════════════════════════════╗
+  ║                                               ║
+  ║    🚀 Building Scalable ML Systems           ║
+  ║    🛡️  Real-time Anomaly Detection          ║
+  ║    🌐 Full-Stack Security Solutions          ║
+  ║                                               ║
+  ╚═══════════════════════════════════════════════╝
+```
+
+<!-- Animated Rocket Traversing -->
+<style>
+@keyframes rocketSlide {
+  0% {
+    left: -50px;
+    opacity: 0;
+  }
+  5% {
+    opacity: 1;
+  }
+  95% {
+    opacity: 1;
+  }
+  100% {
+    left: 100%;
+    opacity: 0;
+  }
+}
+
+.rocket-traverse {
+  position: relative;
+  display: inline-block;
+  font-size: 32px;
+  animation: rocketSlide 4s ease-in-out infinite;
+  margin: 15px 0;
+}
+</style>
+
+<div class="rocket-traverse">🚀</div>
+
+<!-- Animated Neon Line -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=18&duration=4000&pause=1000&color=00D8FF&center=true&width=600&lines=%E2%9C%A8+Transforming+Ideas+into+Intelligent+Solutions+✨;%F0%9F%92%BB+Code+%7C+ML+%7C+Security;%F0%9F%9A%80+Innovation+Meets+Excellence" alt="Cyberpunk Animation"/>
+
+</div>
 
 ---
 
@@ -111,7 +61,7 @@
 <div style="background: linear-gradient(135deg, rgba(66, 133, 244, 0.1) 0%, rgba(0, 216, 255, 0.05) 100%); padding: 20px; border-radius: 10px; border-left: 4px solid #4285F4; margin: 15px 0;">
 
 <a href="https://www.credly.com/badges/309fdb71-ac00-411f-a1a9-43984a129811/public_url" target="_blank">
-  <img src="https://images.credly.com/size/680x680/images/0a45f5d0-ed1b-4c41-96e0-c3a9e8bfcc0a/image.png" alt="Google Cloud Skills Badge" style="width: 150px; height: auto; border-radius: 10px; box-shadow: 0 0 20px rgba(66, 133, 244, 0.5); transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img src="https://images.credly.com/size/680x680/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/image.png" alt="Google Cloud Skills Badge" style="width: 150px; height: auto; border-radius: 10px; box-shadow: 0 0 20px rgba(66, 133, 244, 0.5); transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
 </a>
 
 </div>
@@ -222,6 +172,8 @@
 ![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adityarajj23&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0a0e27&text_color=00D8FF&title_color=00D8FF&icon_color=0099FF)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityarajj23&theme=tokyonight&hide_border=true&layout=compact&bg_color=0a0e27&text_color=00D8FF&title_color=00D8FF)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adityarajj23&theme=tokyonight&background=0a0e27&stroke=00D8FF&ring=00D8FF&fire=FF6B6B&currStreakNum=00D8FF&sideNums=0099FF&currStreakLabel=6A0DAD&sideLabels=00D8FF&dates=0099FF)
 
 </div>
 
