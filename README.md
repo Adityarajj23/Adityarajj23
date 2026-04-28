@@ -3,7 +3,7 @@
 # Aditya Raj 
 ## Full-Stack Developer | ML/AI Enthusiast | Security Researcher
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Building+scalable+ML+solutions;Real-time+security+monitoring;Crafting+intelligent+systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Building+scalable+ML+systems;Real-time+anomaly+detection;Full-stack+security+solutions" alt="Typing Animation"/>
 
 ---
 
@@ -26,6 +26,7 @@
 
 [![Twitter](https://img.shields.io/badge/🐦_@antiquark_aditya-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/)
 [![LinkedIn](https://img.shields.io/badge/💼_Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![Instagram](https://img.shields.io/badge/📷_Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/Adityarajj23)
 [![Email](https://img.shields.io/badge/📧_Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vedp5585@gmail.com)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio.com)
 
@@ -79,7 +80,7 @@
 
 </div>
 
-### 🗄️ Databases & Cloud
+### 🗄️ Databases, Cloud & DevOps
 <div align="center">
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -92,62 +93,6 @@
 
 ---
 
-## ⭐ Featured Projects
-
-### 🧾 [Fraud Bill Detection](https://github.com/Adityarajj23/Fraud_bill_detection)
-**Hybrid ML System | EfficientNet-B0 + OCR**
-
-A sophisticated fraud detection system combining computer vision and NLP:
-- 📊 **98% fraud recall** with 79% accuracy using dual-modal validation
-- 🖼️ EfficientNet-B0 for visual anomaly detection
-- 📝 Tesseract OCR + Regex for semantic field validation
-- 🔗 REST API with threshold tuning for different deployment contexts
-- 🎯 **ROC AUC: 0.938** | **PR AUC: 0.935**
-
-**Tech:** PyTorch, OpenCV, FastAPI, MongoDB
-
----
-
-### 🛡️ [SentinelAI](https://github.com/Adityarajj23/sentinelAI)
-**Real-Time API Anomaly Detection Dashboard**
-
-Full-stack security monitoring platform with AI-powered insights:
-- 🔍 Hybrid detection: Rule-based + Machine Learning (Isolation Forest)
-- 📈 Real-time React dashboard with Recharts visualization
-- 🧠 Gemini API integration for natural language incident explanations
-- 🎮 Remote-controlled traffic simulation
-- ☁️ Deployed on Render + Vercel with MongoDB Atlas
-
-**Tech:** React, Flask, MongoDB, Scikit-learn, Google Gemini API
-
----
-
-### 🤖 [Orchestrator Agent](https://github.com/Adityarajj23/Orchestrator_Agent)
-**Intent Classification & Device Control System**
-
-Intelligent NLP-driven orchestration engine:
-- 🎯 Multi-class intent classification (Greeting, Device Control, Guardrails, Out-of-Scope)
-- 🛡️ Safety guardrails for malicious prompt detection
-- 🔌 Device control automation framework
-- 📊 Robust dataset with guardrail examples
-
-**Tech:** Python, NLP, Classification ML
-
----
-
-### 📊 [Superstore Sales Analysis](https://github.com/Adityarajj23/Superstore-Sales-Analysis-Tableau)
-**Interactive BI Dashboard**
-
-Advanced sales analytics using Tableau:
-- 📈 Regional and temporal trend analysis
-- 💰 Revenue forecasting and segmentation
-- 🎯 Customer behavior insights
-- 🔧 Advanced Tableau features (parameters, calculated fields)
-
-**Tech:** Tableau, Data Analytics
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -157,19 +102,6 @@ Advanced sales analytics using Tableau:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityarajj23&theme=tokyonight&hide_border=true&layout=compact)
 
 </div>
-
----
-
-## 💡 Expertise Matrix
-
-| Area | Skills |
-|------|--------|
-| **ML/AI** | PyTorch, TensorFlow, Scikit-learn, Computer Vision, NLP, Anomaly Detection |
-| **Backend** | Node.js, Express, Flask, FastAPI, Python, Java |
-| **Frontend** | React, Vite, HTML/CSS/JS, Responsive Design |
-| **Databases** | MongoDB, PostgreSQL, SQL |
-| **DevOps & Cloud** | Docker, Google Cloud, Git, REST APIs |
-| **Data Science** | Pandas, NumPy, Data Analysis, Tableau, EDA |
 
 ---
 
@@ -192,7 +124,7 @@ I believe in writing clean, maintainable code and creating solutions that solve 
 
 ## 🤝 Let's Connect!
 
-⭐ Feel free to explore my repositories, star them if you find them useful, and connect with me on LinkedIn or Twitter!
+⭐ Feel free to explore my repositories, star them if you find them useful, and connect with me!
 
 I'm always open to:
 - 💬 Discussing ML/AI applications
