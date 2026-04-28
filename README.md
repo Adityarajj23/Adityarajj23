@@ -3,51 +3,22 @@
 # 🌌 Aditya Raj 
 ## Full-Stack Developer | ML/AI Enthusiast | Security Researcher
 
-<!-- Cyberpunk ASCII Banner with Animated Rocket Emoji -->
-<div style="background: linear-gradient(135deg, #0a0e27 0%, #1a1f3a 100%); padding: 40px; border-radius: 15px; border: 2px solid #00D8FF; box-shadow: 0 0 30px rgba(0, 216, 255, 0.5), inset 0 0 20px rgba(0, 153, 255, 0.1); margin: 20px 0; position: relative; overflow: hidden;">
+<!-- Cyberpunk ASCII Banner -->
+<div style="background: linear-gradient(135deg, #0a0e27 0%, #1a1f3a 100%); padding: 30px; border-radius: 10px; border: 2px solid #00D8FF; box-shadow: 0 0 20px rgba(0, 216, 255, 0.5); margin: 20px 0;">
 
 ```
-  ╔═══════════════════════════════════════════════╗
-  ║                                               ║
-  ║    🚀 Building Scalable ML Systems           ║
-  ║    🛡️  Real-time Anomaly Detection          ║
-  ║    🌐 Full-Stack Security Solutions          ║
-  ║                                               ║
-  ╚═══════════════════════════════════════════════╝
+╔════════════════════════════════════════════════╗
+║  🚀 Building Scalable ML Systems              ║
+║  🛡️  Real-time Anomaly Detection             ║
+║  🌐 Full-Stack Security Solutions             ║
+╚════════════════════════════════════════════════╝
 ```
 
-<!-- Animated Rocket Traversing -->
-<style>
-@keyframes rocketSlide {
-  0% {
-    left: -50px;
-    opacity: 0;
-  }
-  5% {
-    opacity: 1;
-  }
-  95% {
-    opacity: 1;
-  }
-  100% {
-    left: 100%;
-    opacity: 0;
-  }
-}
+</div>
 
-.rocket-traverse {
-  position: relative;
-  display: inline-block;
-  font-size: 32px;
-  animation: rocketSlide 4s ease-in-out infinite;
-  margin: 15px 0;
-}
-</style>
+🚀➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️
 
-<div class="rocket-traverse">🚀</div>
-
-<!-- Animated Neon Line -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=18&duration=4000&pause=1000&color=00D8FF&center=true&width=600&lines=%E2%9C%A8+Transforming+Ideas+into+Intelligent+Solutions+✨;%F0%9F%92%BB+Code+%7C+ML+%7C+Security;%F0%9F%9A%80+Innovation+Meets+Excellence" alt="Cyberpunk Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=16&duration=4000&pause=1000&color=00D8FF&center=true&width=600&lines=%E2%9C%A8+Transforming+Ideas+into+Intelligent+Solutions+%E2%9C%A8;%F0%9F%92%BB+Code+%7C+ML+%7C+Security;%F0%9F%9A%80+Innovation+Meets+Excellence" alt="Cyberpunk Animation"/>
 
 </div>
 
@@ -61,7 +32,7 @@
 <div style="background: linear-gradient(135deg, rgba(66, 133, 244, 0.1) 0%, rgba(0, 216, 255, 0.05) 100%); padding: 20px; border-radius: 10px; border-left: 4px solid #4285F4; margin: 15px 0;">
 
 <a href="https://www.credly.com/badges/309fdb71-ac00-411f-a1a9-43984a129811/public_url" target="_blank">
-  <img src="https://images.credly.com/size/680x680/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/image.png" alt="Google Cloud Skills Badge" style="width: 150px; height: auto; border-radius: 10px; box-shadow: 0 0 20px rgba(66, 133, 244, 0.5); transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img src="https://images.credly.com/size/680x680/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/image.png" alt="Google Cloud Skills Badge" style="width: 150px; height: auto; border-radius: 10px; box-shadow: 0 0 20px rgba(66, 133, 244, 0.5);"/>
 </a>
 
 </div>
@@ -70,7 +41,7 @@
 <div style="background: linear-gradient(135deg, rgba(255, 107, 107, 0.1) 0%, rgba(0, 216, 255, 0.05) 100%); padding: 20px; border-radius: 10px; border-left: 4px solid #FF6B6B; margin: 15px 0;">
 
 <a href="https://holopin.io/hacktoberfest2025" target="_blank">
-  <img src="https://assets.holopin.io/hf2025levels/lvl2-human.webp" alt="Hacktoberfest 2025 Level 2" style="width: 150px; height: auto; border-radius: 10px; box-shadow: 0 0 20px rgba(255, 107, 107, 0.5); transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img src="https://assets.holopin.io/hf2025levels/lvl2-human.webp" alt="Hacktoberfest 2025 Level 2" style="width: 150px; height: auto; border-radius: 10px; box-shadow: 0 0 20px rgba(255, 107, 107, 0.5);"/>
 </a>
 
 </div>
@@ -79,7 +50,7 @@
 <div style="background: linear-gradient(135deg, rgba(32, 190, 255, 0.1) 0%, rgba(0, 216, 255, 0.05) 100%); padding: 20px; border-radius: 10px; border-left: 4px solid #20BEFF; margin: 15px 0;">
 
 <a href="https://www.kaggle.com/learn/ai-agents" target="_blank">
-  <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F10489106%2Fef135f20e49c369cebff513ac3c96eed%2F5-Day_AI_Agents_Intensive_Badge.svg?generation=1763052133996110&alt=media" alt="5-Day AI Agents Intensive" style="width: 150px; height: auto; border-radius: 10px; box-shadow: 0 0 20px rgba(32, 190, 255, 0.5); transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F10489106%2Fef135f20e49c369cebff513ac3c96eed%2F5-Day_AI_Agents_Intensive_Badge.svg?generation=1763052133996110&alt=media" alt="5-Day AI Agents Intensive" style="width: 150px; height: auto; border-radius: 10px; box-shadow: 0 0 20px rgba(32, 190, 255, 0.5);"/>
 </a>
 
 </div>
@@ -173,7 +144,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityarajj23&theme=tokyonight&hide_border=true&layout=compact&bg_color=0a0e27&text_color=00D8FF&title_color=00D8FF)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adityarajj23&theme=tokyonight&background=0a0e27&stroke=00D8FF&ring=00D8FF&fire=FF6B6B&currStreakNum=00D8FF&sideNums=0099FF&currStreakLabel=6A0DAD&sideLabels=00D8FF&dates=0099FF)
+![GitHub Streak Stats](https://streak-stats.demolab.com?user=Adityarajj23&theme=tokyonight_neon&background=0a0e27&ring=00D8FF&fire=FF6B6B&currStreakNum=00D8FF&sideNums=0099FF&currStreakLabel=6A0DAD&sideLabels=00D8FF&dates=0099FF&border=00D8FF)
 
 </div>
 
