@@ -1,9 +1,25 @@
 <div align="center">
 
-# Aditya Raj 
+# 🌌 Aditya Raj 
 ## Full-Stack Developer | ML/AI Enthusiast | Security Researcher
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Building+scalable+ML+systems;Real-time+anomaly+detection;Full-stack+security+solutions" alt="Typing Animation"/>
+<!-- Cyberpunk Animated Banner with Neon Glow -->
+<div style="background: linear-gradient(135deg, #0a0e27 0%, #1a1f3a 100%); padding: 40px; border-radius: 15px; border: 2px solid #00D8FF; box-shadow: 0 0 30px rgba(0, 216, 255, 0.5), inset 0 0 20px rgba(0, 153, 255, 0.1); margin: 20px 0;">
+
+```
+  ╔═══════════════════════════════════════════════╗
+  ║                                               ║
+  ║    🚀 Building Scalable ML Systems           ║
+  ║    🛡️  Real-time Anomaly Detection          ║
+  ║    🌐 Full-Stack Security Solutions          ║
+  ║                                               ║
+  ╚═══════════════════════════════════════════════╝
+```
+
+<!-- Animated Neon Line -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=18&duration=4000&pause=2000&color=00D8FF&center=true&width=600&lines=%E2%9C%A8+Transforming+Ideas+into+Intelligent+Solutions+✨;%F0%9F%92%BB+Code+%7C+ML+%7C+Security;%F0%9F%9A%80+Innovation+Meets+Excellence" alt="Cyberpunk Animation"/>
+
+</div>
 
 ---
 
@@ -11,10 +27,30 @@
 
 <div align="center">
 
-[![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/Adityarajj23)
-[![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2024-FF6B6B?style=for-the-badge&logo=hacktoberfest&logoColor=white)]()
-[![Google Cloud Learning](https://img.shields.io/badge/Google%20Cloud-Skills%20Badge-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)]()
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adityarajj23)
+### 🌐 Google Cloud
+<div style="background: linear-gradient(135deg, rgba(66, 133, 244, 0.1) 0%, rgba(0, 216, 255, 0.05) 100%); padding: 20px; border-radius: 10px; border-left: 4px solid #4285F4; margin: 15px 0;">
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="309fdb71-ac00-411f-a1a9-43984a129811" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+</div>
+
+### 🎃 Hacktoberfest 2025
+<div style="background: linear-gradient(135deg, rgba(255, 107, 107, 0.1) 0%, rgba(0, 216, 255, 0.05) 100%); padding: 20px; border-radius: 10px; border-left: 4px solid #FF6B6B; margin: 15px 0;">
+
+<a href="https://holopin.io/hacktoberfest2025" target="_blank">
+  <img src="https://assets.holopin.io/hf2025levels/lvl2-human.webp" alt="Hacktoberfest 2025 Level 2" style="width: 150px; height: auto; border-radius: 10px; box-shadow: 0 0 20px rgba(255, 107, 107, 0.5);"/>
+</a>
+
+</div>
+
+### 📊 Kaggle
+<div style="background: linear-gradient(135deg, rgba(32, 190, 255, 0.1) 0%, rgba(0, 216, 255, 0.05) 100%); padding: 20px; border-radius: 10px; border-left: 4px solid #20BEFF; margin: 15px 0;">
+
+<a href="https://www.kaggle.com/learn/ai-agents" target="_blank">
+  <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F10489106%2Fef135f20e49c369cebff513ac3c96eed%2F5-Day_AI_Agents_Intensive_Badge.svg?generation=1763052133996110&alt=media" alt="5-Day AI Agents Intensive" style="width: 150px; height: auto; border-radius: 10px; box-shadow: 0 0 20px rgba(32, 190, 255, 0.5);"/>
+</a>
+
+</div>
 
 </div>
 
@@ -25,14 +61,18 @@
 <div align="center">
 
 [![Twitter](https://img.shields.io/badge/🐦_@antiquark_aditya-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/)
-[![LinkedIn](https://img.shields.io/badge/💼_Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![Instagram](https://img.shields.io/badge/📷_Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/Adityarajj23)
-[![Email](https://img.shields.io/badge/📧_Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vedp5585@gmail.com)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/💼_Connect-0099FF?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![Instagram](https://img.shields.io/badge/📷_Instagram-00D8FF?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/Adityarajj23)
+[![Email](https://img.shields.io/badge/📧_Contact-FF6B9D?style=flat-square&logo=gmail&logoColor=white)](mailto:vedp5585@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-6A0DAD?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio.com)
 
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Adityarajj23&label=Profile+Impact&style=flat-square&color=00D8FF)
+<div style="margin-top: 15px;">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Adityarajj23&label=Profile%20Impact&style=flat-square&color=00D8FF)
+
+</div>
 
 ---
 
@@ -97,9 +137,9 @@
 
 <div align="center">
 
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adityarajj23&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adityarajj23&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0a0e27&text_color=00D8FF&title_color=00D8FF&icon_color=0099FF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityarajj23&theme=tokyonight&hide_border=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityarajj23&theme=tokyonight&hide_border=true&layout=compact&bg_color=0a0e27&text_color=00D8FF&title_color=00D8FF)
 
 </div>
 
@@ -107,35 +147,55 @@
 
 ## 🚀 Current Focus
 
+<div style="background: linear-gradient(135deg, rgba(0, 216, 255, 0.1) 0%, rgba(106, 13, 173, 0.1) 100%); padding: 20px; border-radius: 10px; border: 1px solid #00D8FF; margin: 20px 0;">
+
 - 🔬 Building production-grade ML systems with high-performance inference
 - 🛡️ Exploring advanced anomaly detection and security monitoring
 - 🌐 Full-stack development combining AI backend with modern frontends
 - 📚 Learning distributed systems and cloud-native architectures
 
+</div>
+
 ---
 
 ## 📖 Philosophy
 
-> **"Code is poetry written for machines, but appreciated by humans"**
+<div style="background: linear-gradient(135deg, rgba(106, 13, 173, 0.2) 0%, rgba(0, 153, 255, 0.1) 100%); padding: 25px; border-radius: 10px; border-left: 5px solid #6A0DAD; margin: 20px 0; font-style: italic;">
+
+> **✨ "Code is poetry written for machines, but appreciated by humans" ✨**
 
 I believe in writing clean, maintainable code and creating solutions that solve real-world problems. Every project is an opportunity to learn, innovate, and contribute to the developer community.
+
+</div>
 
 ---
 
 ## 🤝 Let's Connect!
 
-⭐ Feel free to explore my repositories, star them if you find them useful, and connect with me!
+<div style="background: linear-gradient(135deg, rgba(0, 216, 255, 0.15) 0%, rgba(106, 13, 173, 0.15) 100%); padding: 20px; border-radius: 10px; border: 2px solid #0099FF; margin: 20px 0;">
 
-I'm always open to:
+⭐ **Feel free to explore my repositories, star them if you find them useful, and connect with me!**
+
+**I'm always open to:**
 - 💬 Discussing ML/AI applications
 - 🤝 Open-source collaborations
 - 📧 Freelance opportunities
 - 🎓 Knowledge sharing and mentoring
 
+</div>
+
+---
+
 <div align="center">
 
-### Made with ❤️ by Aditya Raj Singh
+### 🌟 Made with ❤️ by Aditya Raj Singh
 
-[![GitHub followers](https://img.shields.io/github/followers/Adityarajj23?style=social)](https://github.com/Adityarajj23)
+[![GitHub followers](https://img.shields.io/github/followers/Adityarajj23?style=social&label=Follow&color=00D8FF)](https://github.com/Adityarajj23)
+
+<div style="margin-top: 20px; font-size: 12px; color: #0099FF;">
+
+✨ Cyberpunk Modern Blue Theme | Full-Stack Developer | ML/AI Enthusiast ✨
+
+</div>
 
 </div>
