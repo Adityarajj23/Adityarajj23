@@ -4,7 +4,7 @@
 ## Full-Stack Developer | ML/AI Enthusiast | Security Researcher
 
 <!-- Cyberpunk ASCII Banner -->
-<div align="center" style="background: linear-gradient(135deg, #0a0e27 0%, #1a1f3a 100%); padding: 30px; border-radius: 10px; border: 2px solid #00D8FF; box-shadow: 0 0 20px rgba(0, 216, 255, 0.5); margin: 20px 0;">
+<div align="center" style="background: linear-gradient(135deg, #0a0e27 0%, #1a1f3a 100%); padding: 30px; border-radius: 10px; border: 2px solid #00D8FF; box-shadow: 0 0 20px rgba(0, 216, 255, 0.5); margin: 20px auto; display: flex; justify-content: center; align-items: center;">
 
 ```
 ╔════════════════════════════════════════════════╗
