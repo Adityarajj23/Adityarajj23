@@ -59,11 +59,11 @@
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/🐦_@antiquark_aditya-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/)
-[![LinkedIn](https://img.shields.io/badge/💼_Connect-0099FF?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![Instagram](https://img.shields.io/badge/📷_Instagram-00D8FF?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/Adityarajj23)
-[![Email](https://img.shields.io/badge/📧_Contact-FF6B9D?style=flat-square&logo=gmail&logoColor=white)](mailto:vedp5585@gmail.com)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-6A0DAD?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![X](https://img.shields.io/badge/X_Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/AdityaRaj_2606)
+[![LinkedIn](https://img.shields.io/badge/💼_Linkedin-0099FF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityaraj2323)
+[![Instagram](https://img.shields.io/badge/Instagram-00D8FF?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/adityaa_raj23)
+[![Email](https://img.shields.io/badge/Mail-FF6B9D?style=flat-square&logo=gmail&logoColor=white)](mailto:adityaarajj2323@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6A0DAD?style=flat-square&logo=vercel&logoColor=white)](https://portfolioadityaraj.vercel.app/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Adityarajj23&label=Profile%20Impact&style=flat-square&color=00D8FF)
 
@@ -185,14 +185,8 @@ I believe in writing clean, maintainable code and creating solutions that solve 
 
 <div align="center">
 
-### 🌟 Made with ❤️ by Aditya Raj Singh
+### 🌟 Made with ❤️ by Aditya Raj 
 
 [![GitHub followers](https://img.shields.io/github/followers/Adityarajj23?style=social&label=Follow&color=00D8FF)](https://github.com/Adityarajj23)
-
-<div style="margin-top: 20px; font-size: 12px; color: #0099FF;">
-
-✨ Cyberpunk Modern Blue Theme | Full-Stack Developer | ML/AI Enthusiast ✨
-
-</div>
 
 </div>
