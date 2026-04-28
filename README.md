@@ -16,11 +16,7 @@
 
 </div>
 
-🚀➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=16&duration=4000&pause=1000&color=00D8FF&center=true&width=600&lines=%E2%9C%A8+Transforming+Ideas+into+Intelligent+Solutions+%E2%9C%A8;%F0%9F%92%BB+Code+%7C+ML+%7C+Security;%F0%9F%9A%80+Innovation+Meets+Excellence" alt="Cyberpunk Animation"/>
-
-</div>
 
 ---
 
@@ -68,10 +64,6 @@
 [![Instagram](https://img.shields.io/badge/📷_Instagram-00D8FF?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/Adityarajj23)
 [![Email](https://img.shields.io/badge/📧_Contact-FF6B9D?style=flat-square&logo=gmail&logoColor=white)](mailto:vedp5585@gmail.com)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-6A0DAD?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio.com)
-
-</div>
-
-<div style="margin-top: 15px;">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Adityarajj23&label=Profile%20Impact&style=flat-square&color=00D8FF)
 
